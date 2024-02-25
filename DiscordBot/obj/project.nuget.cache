@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/vNtEgzTG+2zGD4k0SMhpACKArJL4GhFyleMsevyHGjdFe6CKX4BcqQsxXzpQisrrIeAA158/dpNq8uo8j2sGA==",
+  "dgSpecHash": "XXinn2LSeMnP9kO/OCwtip1qUAVNe/bRd4yxbzZtmBBktWmsPbxiPAnf1SQXdTeMmKkS2dJhPJsgJPbXSGAxkg==",
   "success": true,
-  "projectFilePath": "/Users/nico/DiscordBotRepo/DiscordBot/DiscordBot.csproj",
+  "projectFilePath": "/Users/nico/Documents/Coding/GitHubRepos/DiscordBotRepo/DiscordBot/DiscordBot.csproj",
   "expectedPackageFiles": [
     "/Users/nico/.nuget/packages/concurrenthashset/1.3.0/concurrenthashset.1.3.0.nupkg.sha512",
     "/Users/nico/.nuget/packages/dsharpplus/4.4.6/dsharpplus.4.4.6.nupkg.sha512",
